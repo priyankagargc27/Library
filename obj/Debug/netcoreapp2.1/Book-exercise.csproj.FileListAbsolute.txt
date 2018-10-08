@@ -1,0 +1,11 @@
+C:\Users\Priya\workspace\csharp\Book-exercise\bin\Debug\netcoreapp2.1\Book-exercise.deps.json
+C:\Users\Priya\workspace\csharp\Book-exercise\bin\Debug\netcoreapp2.1\Book-exercise.runtimeconfig.json
+C:\Users\Priya\workspace\csharp\Book-exercise\bin\Debug\netcoreapp2.1\Book-exercise.runtimeconfig.dev.json
+C:\Users\Priya\workspace\csharp\Book-exercise\bin\Debug\netcoreapp2.1\Book-exercise.dll
+C:\Users\Priya\workspace\csharp\Book-exercise\bin\Debug\netcoreapp2.1\Book-exercise.pdb
+C:\Users\Priya\workspace\csharp\Book-exercise\obj\Debug\netcoreapp2.1\Book-exercise.csprojAssemblyReference.cache
+C:\Users\Priya\workspace\csharp\Book-exercise\obj\Debug\netcoreapp2.1\Book-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Priya\workspace\csharp\Book-exercise\obj\Debug\netcoreapp2.1\Book-exercise.AssemblyInfoInputs.cache
+C:\Users\Priya\workspace\csharp\Book-exercise\obj\Debug\netcoreapp2.1\Book-exercise.AssemblyInfo.cs
+C:\Users\Priya\workspace\csharp\Book-exercise\obj\Debug\netcoreapp2.1\Book-exercise.dll
+C:\Users\Priya\workspace\csharp\Book-exercise\obj\Debug\netcoreapp2.1\Book-exercise.pdb
